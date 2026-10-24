@@ -1,0 +1,11 @@
+{
+  "name": "VibeWave MP3 Player",
+  "short_name": "VibeWave",
+  "description": "A neon pink music player for your local audio library and online music discovery.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100b13",
+  "theme_color": "#170d1a",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
